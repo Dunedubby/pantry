@@ -11,7 +11,7 @@ dependencies:
   google.com/double-conversion: ^3
   github.com/facebookincubator/fizz: '*'
   fmt.dev: ^10
-  facebook.com/folly: '*'
+  facebook.com/folly: '>=2024.10.07.0'
   gflags.github.io: '*'
   google.com/glog: '<0.7' # glog 0.7.0 cannot be simply included
   libevent.org: '*'
